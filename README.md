@@ -1,7 +1,7 @@
 ## Boas vindas ao meu perfi🌻
 
 
-Meu nome é Jeniffer Silva
+Meu nome é Jeniffer Aparecida da Silva Bueno
 
 - Estou estudando na [Alura](https://www.alura.com.br)
 
